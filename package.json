@@ -1,0 +1,22 @@
+{
+  "name": "2048_demo",
+  "version": "1.0.0",
+  "description": "Glad you made it here! You are only a few steps away from trying buddybuild with our demo app!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snaderi/2048-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snaderi/2048-Demo/issues"
+  },
+  "homepage": "https://github.com/snaderi/2048-Demo#readme",
+  "dependencies": {
+    "python": "0.0.4"
+  }
+}
