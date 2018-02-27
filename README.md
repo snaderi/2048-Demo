@@ -23,4 +23,4 @@ This is a derivative of the iOS version of the game 2048. If you are unfamiliar 
 
 If you find the source code somewhat useful, all I ask is to download it from the [App Store](https://itunes.apple.com/us/app/2048-and-more!/id848859070?ls=1&mt=8), so I know that *someone* has seen it. Relax: It is free; it does not have any ads or weird stuff; it does not send you push notifications to ask you to go back and play it.
 
-You may also consider to [donate](https://github.com/gabrielecirulli/2048) to the maker of the original 2048 if you'd like, of course. :)
+You may also consider to [donate](https://github.com/gabrielecirulli/2048) to the maker of the original 2048 if you'd like, of course. (:
